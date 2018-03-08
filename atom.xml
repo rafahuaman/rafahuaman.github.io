@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Rafael Huaman's personal site</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>API Craft Chicago - Reboot</title>
+        
+          <description>&lt;p&gt;Today the rebooted “API Craft Chicago” meetup held its first meeting. It was a great evening in which organizer Stephen Rylander invited a few people to share some ‘war’ stories related to API development.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 18 Nov 2014 04:10:00 -0500</pubDate>
+        <link>
+        http://localhost:4000/api-craft-chicago-reboot</link>
+        <guid isPermaLink="true">http://localhost:4000/api-craft-chicago-reboot</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>My App: 'Debater'</title>
+        
+          <description>&lt;p&gt;After a few months of work, I have finally completed my first practice app. I built it little by little in the mornings before work and on the weekends as well.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 06 Nov 2014 03:05:00 -0500</pubDate>
+        <link>
+        http://localhost:4000/my-app-debater</link>
+        <guid isPermaLink="true">http://localhost:4000/my-app-debater</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Applying what I learned to my job</title>
+        
+          <description>&lt;p&gt;I am writing this post because I want to document what I consider one of my biggest victories in this learning journey of mine. Additionally, I want to share how learning something new can impact your job even if they are seemingly unrelated. In this post I will briefly explain how I built a custom &lt;a href=&quot;http://en.wikipedia.org/wiki/Object-relational_mapping&quot;&gt;ORM&lt;/a&gt; solution for &lt;a href=&quot;http://www.teradata.com/?LangType=1033&quot;&gt;Teradata&lt;/a&gt; in VB.Net.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 13 May 2014 23:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/applying-what-i-learned-to-my-job</link>
+        <guid isPermaLink="true">http://localhost:4000/applying-what-i-learned-to-my-job</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Working through two Rails tutorials</title>
+        
+          <description>&lt;h3 id=&quot;after-the-first-one&quot;&gt;After the first one&lt;/h3&gt;
+
+</description>
+        
+        <pubDate>Sat, 01 Mar 2014 22:16:00 -0500</pubDate>
+        <link>
+        http://localhost:4000/working-through-two-rails-tutorials</link>
+        <guid isPermaLink="true">http://localhost:4000/working-through-two-rails-tutorials</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Lessons in Ruby from Exercism.io</title>
+        
+          <description>&lt;p&gt;##Exercism.io and Patience
+When I started my path of personal development I gathered a lot of information on online resources to improve my skills as a programmer. That’s when I first learned about &lt;a href=&quot;http://exercism.io/&quot;&gt;Exercism.io.&lt;/a&gt; It seemed like a popular and useful resource which would introduce feedback to my learning. I bookmarked and archived it; however, I didn’t use it right away. I got more involved with the &lt;a href=&quot;http://ruby.railstutorial.org/&quot;&gt;Hartl Tutorial&lt;/a&gt;, the &lt;a href=&quot;http://pragprog.com/book/rails4/agile-web-development-with-rails-4&quot;&gt;Agile Web Development with Rails 4&lt;/a&gt; book, and a few more &lt;a href=&quot;http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452&quot;&gt;books&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 05 Feb 2014 23:44:00 -0500</pubDate>
+        <link>
+        http://localhost:4000/lessons-in-ruby-from-exercism-dot-io</link>
+        <guid isPermaLink="true">http://localhost:4000/lessons-in-ruby-from-exercism-dot-io</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Hartl's Rails Tutorial - I'm Done!</title>
+        
+          <description>&lt;p&gt;So after a few months of coding on the weekend and late at night, I am finally done with the Hartl Rails tutorial. It was a great experience and I feel great about doing pretty much everything on the book. There was a lot to cover and I am not going to review it (there are plenty of reviews out there), but I am going to write about my biggest takeaways.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 24 Dec 2013 06:02:00 -0500</pubDate>
+        <link>
+        http://localhost:4000/hartls-rails-tutorial-im-done</link>
+        <guid isPermaLink="true">http://localhost:4000/hartls-rails-tutorial-im-done</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Nitrous.io and How I Stopped Carrying Two Laptops</title>
+        
+          <description>&lt;p&gt;This post is bittersweet.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 12 Dec 2013 05:54:00 -0500</pubDate>
+        <link>
+        http://localhost:4000/nitrous-dot-io-and-how-i-stopped-carrying-two-laptops</link>
+        <guid isPermaLink="true">http://localhost:4000/nitrous-dot-io-and-how-i-stopped-carrying-two-laptops</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>My First Code Retreat</title>
+        
+          <description>&lt;p&gt;This is a post about my &lt;a href=&quot;http://coderetreat.org/&quot;&gt;code retreat&lt;/a&gt; experience a few months ago. For those who don’t know what a Code Retreat is please visit &lt;a href=&quot;http://coderetreat.org/&quot;&gt;coderetreat.org&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 28 Nov 2013 05:44:00 -0500</pubDate>
+        <link>
+        http://localhost:4000/my-first-code-retreat</link>
+        <guid isPermaLink="true">http://localhost:4000/my-first-code-retreat</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Updating My Learing Plan</title>
+        
+          <description>&lt;p&gt;When I started this learning process, I had a goal in mind and built a plan to help me achieve it. A plan can help you think methodically about how to achieve your goal and keep track of your progress. The learning plan I designed was based on what I knew at the time. Since then I have reached many milestones and have learned a lot from others. It is time now to revisit this plan and see if it is still relevant.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 13 Oct 2013 15:05:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/updating-my-learing-plan</link>
+        <guid isPermaLink="true">http://localhost:4000/updating-my-learing-plan</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>My Ubuntu Laptop</title>
+        
+          <description>&lt;h2 id=&quot;windows-woes&quot;&gt;Windows Woes&lt;/h2&gt;
+&lt;p&gt;When I started playing with Ruby, I didn’t even have it on my laptop. With resources like &lt;a href=&quot;http://tryruby.org/&quot;&gt;tryruby.org&lt;/a&gt; and &lt;a href=&quot;http://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt; freely available online I did not need install it until I started building small programs. After I finished the tutorials I installed Ruby on my windows machine and since I wasn’t building any complicated projects, everything was fine.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 06 Oct 2013 00:39:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/my-ubuntu-laptop</link>
+        <guid isPermaLink="true">http://localhost:4000/my-ubuntu-laptop</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ruby and the Koans</title>
+        
+          <description>&lt;p&gt;After finishing Codecademy’s Web Fundamentals track I immediately started the Ruby track. I knew I wanted to go with Ruby because I had already done plenty of research on the technologies I needed to learn in order to become a web developer. I had used Ruby in the past for a very simple Ride Sharing web application I built while at school; however, I used it simply as a means to work with rails and setup the application quickly. During my student time this was OK; however, now that I have made a serious choice about becoming a web developer I need to master it.
+The authors of the book &lt;a href=&quot;http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1379649530&amp;amp;sr=1-1&quot;&gt;Apprenticeship Patterns&lt;/a&gt; point out that “It is important that you carefully weigh the options (between programming languages), as this is the foundation upon which your early career will be built”. I have chosen Ruby. I will immerse myself in it, play with it in my free time, solve puzzles and read the documentation until I know it all. It will be a long road but I am ready to take the first steps. 
+The Ruby track offered by &lt;a href=&quot;http://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt; was very good. It was very simple and easy to understand. It even had a few “projects” to apply the concepts learned. The sections build on each other and it is easy to go back and review previous concepts and exercises in case you forget something along the way. The Ruby track can be finished very quickly since it just a beginner’s course.&lt;br /&gt;
+My conclusion after CodeAcademy’s Ruby Track:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is definitely a beginner's course.&lt;/li&gt;
+&lt;li&gt;After I was done I felt that even though I could write classes, methods, procs, lambdas, and loops, there was still a lot to learn.&lt;/li&gt; 
+&lt;/ul&gt;
+&lt;p&gt;My initial thoughts on Ruby:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I like it.&lt;/li&gt; 
+&lt;li&gt;It offers a lot of flexibility (There's usually more than one way to do one thing in Ruby)&lt;/li&gt;
+&lt;li&gt;Ruby offers a few interesting methods and features like &quot;each&quot;, the flexible way to write conditions, and passing blocks.&lt;/li&gt;
+&lt;li&gt;It's very easy to work with hashes.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Sep 2013 23:26:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/ruby-and-the-koans</link>
+        <guid isPermaLink="true">http://localhost:4000/ruby-and-the-koans</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Command Line</title>
+        
+          <description>&lt;p&gt;This is not completely new to me. I have used the windows and UNIX command lines in the past. I used it in school to compile programs archive them. I hadn’t really used for anything other than that. The point is that I wasn’t a complete stranger. I debated whether I should skip this section of my road map. However, I decided against it. Since my goal is to be proficient in every aspect of web development I not could afford missing important information in one of the basics skills. Besides I had never had any “training” in terms of the command line.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Sep 2013 23:25:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/the-command-line</link>
+        <guid isPermaLink="true">http://localhost:4000/the-command-line</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>My Thoughts on Octopress</title>
+        
+          <description>&lt;p&gt;Originally I wanted to dedicate an entire post to &lt;a href=&quot;http://octopress.org/&quot;&gt;Octopress&lt;/a&gt; and how I set it up. However, in the interested of moving forward I will just write down my thoughts on it and my experience so far.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Sep 2013 23:25:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/my-thoughts-on-octopress</link>
+        <guid isPermaLink="true">http://localhost:4000/my-thoughts-on-octopress</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Git and Github</title>
+        
+          <description>&lt;p&gt;This is pretty straight forward. I had setup a &lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt; account in the past. But I had rarely used it. I used the free &amp;lt;a href=” the http://try.github.io/levels/1/challenges/1”&amp;gt;Try git tutorial&amp;lt;/a&amp;gt; from &amp;lt;a href=” http://www.codeschool.com/”&amp;gt;Code School&amp;lt;/a&amp;gt; to help me started. I started using git with &lt;a href=&quot;http://octopress.org/&quot;&gt;Octopress&lt;/a&gt; and with &lt;a href=&quot;http://ruby.railstutorial.org/&quot;&gt;Michael Hartl’s Rails tutorial&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Sep 2013 23:25:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/git-and-github</link>
+        <guid isPermaLink="true">http://localhost:4000/git-and-github</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Lots of updates and Diminishing Returns</title>
+        
+          <description>&lt;p&gt;Over the past couple of months I have been trying to document my achievements as I went along. I found that reflecting on the things I learned as I write about them really helped me internalize some concepts. However, after some time I reached a point where I was learning and trying new things faster than I could write about them.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Sep 2013 23:24:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/lots-of-updates-and-diminishing-returns</link>
+        <guid isPermaLink="true">http://localhost:4000/lots-of-updates-and-diminishing-returns</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>HTML, CSS, and Codecademy</title>
+        
+          <description>&lt;p&gt;OK so this one is a bit interesting. After playing around with Java, I decided I needed to have a really good grasp of the web fundamentals. So the next step would be HTML and CSS.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 09 Sep 2013 22:39:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/html</link>
+        <guid isPermaLink="true">http://localhost:4000/html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>A Java Refresher</title>
+        
+          <description>&lt;p&gt;The first thing I decided to do was to refresh my knowledge of Java and object oriented programming in general. This is probably not the best option for a total beginner. Most of the resources out there that teach Web Dev skills start easy with HTML &amp;amp; CSS as well as web fundamentals. These are great for people who have just started to learn how to code. I am not a beginner though. I am well versed in a lot of technical concepts and I have already been programming for a few years. I just needed to get back in the right mindset. Exploring something familiar would help me do that quickly. So Java it was!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 20 Aug 2013 13:56:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/a-java-refresher</link>
+        <guid isPermaLink="true">http://localhost:4000/a-java-refresher</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Roadmap to the Full Stack</title>
+        
+          <description>&lt;p&gt;After some research I have narrowed down the list of technologies and topics that a junior web developer should know. To put this list together I researched the technologies that the leading web development shops are using, the curricula offered at several popular Web Dev. workshops, and different posts on the web with advice related to this subject.  I am very familiar with several of these concepts; however, I plan spend some time on all of them, I want to be thorough.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 15 Aug 2013 17:25:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/roadmap-to-the-full-stack</link>
+        <guid isPermaLink="true">http://localhost:4000/roadmap-to-the-full-stack</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Start of The Great Web Development Adventure of 2013</title>
+        
+          <description>&lt;p&gt;Do you like my title? I like my goals and projects to sound &lt;strong&gt;EPIC&lt;/strong&gt;!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 10 Aug 2013 17:24:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/the-start-of-the-great-web-development-adventure-of-2013</link>
+        <guid isPermaLink="true">http://localhost:4000/the-start-of-the-great-web-development-adventure-of-2013</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>First Post</title>
+        
+          <description>&lt;p&gt;I am Rafael.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 08 Aug 2013 17:22:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/first-post</link>
+        <guid isPermaLink="true">http://localhost:4000/first-post</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
