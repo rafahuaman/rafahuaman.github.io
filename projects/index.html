@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 
     <!-- Document Settings -->
@@ -10,19 +11,34 @@
     <!-- dynamically fixing the title for tag/author pages -->
 
 
-
     <title>Personal Projects</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
     <link rel="stylesheet" type="text/css" href="/assets/built/screen.css" />
     <link rel="stylesheet" type="text/css" href="/assets/built/screen.edited.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/built/syntax.css" />
     <!-- highlight.js -->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
-    <style>.hljs { background: none; }</style>
+    <style>
+        .hljs {
+            background: none;
+        }
+    </style>
+
+    <!--[if IE]>
+        <style>
+            p, ol, ul{
+                width: 100%;
+            }
+            blockquote{
+                width: 100%;
+            }
+        </style>
+    <![endif]-->
 
     <!-- This tag outputs SEO meta+structured data and other important settings -->
-    <meta name="description" content="Rafael Huaman's personal site" />
+    <meta name="description" content="My personal develpment journey" />
     <link rel="shortcut icon" href="http://localhost:4000/assets/images/favicon.png" type="image/png" />
     <link rel="canonical" href="http://localhost:4000/projects/" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -31,13 +47,13 @@
     <meta property="og:site_name" content="Code & Kaizen" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Personal Projects" />
-    <meta property="og:description" content="Rafael Huaman's personal site" />
+    <meta property="og:description" content="My personal develpment journey" />
     <meta property="og:url" content="http://localhost:4000/projects/" />
     <meta property="og:image" content="http://localhost:4000/assets/images/sky.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/false" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Personal Projects" />
-    <meta name="twitter:description" content="Rafael Huaman's personal site" />
+    <meta name="twitter:description" content="My personal develpment journey" />
     <meta name="twitter:url" content="http://localhost:4000/" />
     <meta name="twitter:image" content="http://localhost:4000/assets/images/sky.jpg" />
     <meta name="twitter:label1" content="Written by" />
@@ -67,7 +83,7 @@
         "@type": "WebPage",
         "@id": "http://localhost:4000/projects/"
     },
-    "description": "Rafael Huaman's personal site"
+    "description": "My personal develpment journey"
 }
     </script>
 
@@ -84,7 +100,9 @@
 
 
 </head>
-<body class="post-template">
+
+<body
+    class="post-template">
 
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
@@ -98,32 +116,31 @@ into the {body} of the default.hbs template -->
         <nav class="site-nav">
     <div class="site-nav-left">
         
-            
-                <a class="site-nav-logo" href="http://localhost:4000">Code & Kaizen</a>
-            
+        
+        <a class="site-nav-logo" href="/">Code & Kaizen</a>
         
         
-            <ul class="nav" role="menu">
+        
+        <ul class="nav" role="menu">
     <li class="nav-home" role="menuitem"><a href="/">Home</a></li>
     <li class="nav-projects" role="menuitem"><a href="/projects/">Projects</a></li>
-    <li class="nav-programming" role="menuitem"><a href="/tag/programming/">Programming</a><li>
-    <li class="nav-about" role="menuitem"><a href="/about/">About</a></li>    
+    <li class="nav-programming" role="menuitem"><a href="/tag/programming/">Programming</a></li>
+    <li class="nav-about" role="menuitem"><a href="/about/">About</a></li>
 </ul>
-
         
     </div>
     <div class="site-nav-right">
         <div class="social-links">
             
             
-                <a class="social-link social-link-tw" href="https://twitter.com/rhuaman" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+            <a class="social-link social-link-tw" href="https://twitter.com/rhuaman" target="_blank"
+                rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
 </a>
             
         </div>
         
     </div>
 </nav>
-
     </div>
 </header>
 
@@ -133,7 +150,7 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
-        <article class="post-full post page no-image">
+        <article class="post-full  post page no-image">
 
             <header class="post-full-header">
                 <h1 class="post-full-title">Personal Projects</h1>
@@ -229,21 +246,22 @@ $(function() {
 </script>
 
 
-
         <!-- Previous/next page links - displayed on every page -->
         
 
         <!-- The footer at the very bottom of the screen -->
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
-                <section class="copyright"><a href="http://localhost:4000/">Code & Kaizen</a> &copy; 2018</section>
+                <section class="copyright"><a href="http://localhost:4000/">Code & Kaizen</a> &copy; 2021</section>
                 <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
                     <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
-                    <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a></section>
+                    <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a>
+                </section>
                 <nav class="site-footer-nav">
                     <a href="/">Latest Posts</a>
                     
-                    <a href="https://twitter.com/rhuaman" target="_blank" rel="noopener">Twitter</a>
+                    <a href="https://twitter.com/rhuaman" target="_blank"
+                        rel="noopener">Twitter</a>
                     <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>
                 </nav>
             </div>
@@ -256,18 +274,16 @@ $(function() {
 
     <!-- highlight.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
-    <script>$(document).ready(function() {
-      $('pre code').each(function(i, block) {
-        hljs.highlightBlock(block);
-      });
-    });</script>
+    <script>$(document).ready(function () {
+            $('pre code').each(function (i, block) {
+                hljs.highlightBlock(block);
+            });
+        });</script>
 
     <!-- jQuery + Fitvids, which makes all video embeds responsive -->
-    <script
-        src="https://code.jquery.com/jquery-3.2.1.min.js"
-        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-        crossorigin="anonymous">
-    </script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous">
+        </script>
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
     <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
 
@@ -291,7 +307,7 @@ $(function() {
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-115368058-1', 'auto');
+  ga('create', '', 'auto');
   ga('send', 'pageview');
 
  </script>
@@ -299,7 +315,7 @@ $(function() {
 
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
     
-        <script>
+    <script>
 
 // NOTE: Scroll performance is poor in Safari
 // - this appears to be due to the events firing much more slowly in Safari.
@@ -369,4 +385,5 @@ $(document).ready(function () {
     <!-- ghost_foot -->
 
 </body>
+
 </html>

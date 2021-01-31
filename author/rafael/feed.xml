@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-31T08:46:41-05:00</updated><id>http://localhost:4000/</id><title type="html">Code &amp;amp; Kaizen</title><subtitle>My personal develpment journey</subtitle><entry><title type="html">API Craft Chicago - Reboot</title><link href="http://localhost:4000/api-craft-chicago-reboot" rel="alternate" type="text/html" title="API Craft Chicago - Reboot" /><published>2014-11-18T04:10:00-05:00</published><updated>2014-11-18T04:10:00-05:00</updated><id>http://localhost:4000/api-craft-chicago-reboot</id><content type="html" xml:base="http://localhost:4000/api-craft-chicago-reboot">&lt;p&gt;Today the rebooted “API Craft Chicago” meetup held its first meeting. It was a great evening in which organizer Stephen Rylander invited a few people to share some ‘war’ stories related to API development.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/author/rafael/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-01-31T08:46:41-05:00</updated>
+  <id>http://localhost:4000/author/rafael/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Code &amp;amp; Kaizen | </title>
+  
+
+  
+    <subtitle>My personal develpment journey</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">API Craft Chicago - Reboot</title>
+      <link href="http://localhost:4000/api-craft-chicago-reboot" rel="alternate" type="text/html" title="API Craft Chicago - Reboot" />
+      <published>2014-11-18T04:10:00-05:00</published>
+      <updated>2014-11-18T04:10:00-05:00</updated>
+      <id>http://localhost:4000/api-craft-chicago-reboot</id>
+      <content type="html" xml:base="http://localhost:4000/api-craft-chicago-reboot">&lt;p&gt;Today the rebooted “API Craft Chicago” meetup held its first meeting. It was a great evening in which organizer Stephen Rylander invited a few people to share some ‘war’ stories related to API development.&lt;/p&gt;
 
 &lt;p&gt;Stephen opened the night with a presentation on why he was rebooting the meetup and why he thought having discussions around APIs is important. One of his points was that we need to have discussions in order to share experience and not repeat the “mistakes” from the past. I also took from his talk that REST is here now and “REST is the Internet” but things could change like they have done in the past and we need to be ready for it.&lt;/p&gt;
 
@@ -20,7 +71,41 @@
 
 &lt;p&gt;Thank you to the folks at Morningstar for the space and to the organizers for their time and effort!&lt;/p&gt;
 
-&lt;p&gt;I look forward to the next one.&lt;/p&gt;</content><author><name>Rafael Huaman</name></author><category term="Programming" /><summary type="html">Today the rebooted “API Craft Chicago” meetup held its first meeting. It was a great evening in which organizer Stephen Rylander invited a few people to share some ‘war’ stories related to API development.</summary></entry><entry><title type="html">My App: ‘Debater’</title><link href="http://localhost:4000/my-app-debater" rel="alternate" type="text/html" title="My App: 'Debater'" /><published>2014-11-06T03:05:00-05:00</published><updated>2014-11-06T03:05:00-05:00</updated><id>http://localhost:4000/my-app-debater</id><content type="html" xml:base="http://localhost:4000/my-app-debater">&lt;p&gt;After a few months of work, I have finally completed my first practice app. I built it little by little in the mornings before work and on the weekends as well.&lt;/p&gt;
+&lt;p&gt;I look forward to the next one.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Rafael Huaman</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Programming" />
+      
+
+      
+        <summary type="html">Today the rebooted “API Craft Chicago” meetup held its first meeting. It was a great evening in which organizer Stephen Rylander invited a few people to share some ‘war’ stories related to API development.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">My App: ‘Debater’</title>
+      <link href="http://localhost:4000/my-app-debater" rel="alternate" type="text/html" title="My App: 'Debater'" />
+      <published>2014-11-06T03:05:00-05:00</published>
+      <updated>2014-11-06T03:05:00-05:00</updated>
+      <id>http://localhost:4000/my-app-debater</id>
+      <content type="html" xml:base="http://localhost:4000/my-app-debater">&lt;p&gt;After a few months of work, I have finally completed my first practice app. I built it little by little in the mornings before work and on the weekends as well.&lt;/p&gt;
 
 &lt;p&gt;With this app I wanted to demonstrate to myself what I had learned about Ruby and Rails. At the same time I was looking to build something slightly different that I had not seen before. I took this approach to keep me motivated. I didn’t want to write just another to-do app or blogging app. developing something new kept me going.&lt;/p&gt;
 
@@ -46,7 +131,41 @@
 
 &lt;p&gt;Next time I will definitely focus a bit more on the front-end and try to always fix anything that I think is lacking.&lt;/p&gt;
 
-&lt;p&gt;So that is it. It was a pretty nice exercise. I am proud of this little app. It helped me a lot but I am already working on a different project. I am planning to spend more time polishing my next app so that I can actually release it to the world.&lt;/p&gt;</content><author><name>Rafael Huaman</name></author><category term="Programming" /><summary type="html">After a few months of work, I have finally completed my first practice app. I built it little by little in the mornings before work and on the weekends as well.</summary></entry><entry><title type="html">Applying what I learned to my job</title><link href="http://localhost:4000/applying-what-i-learned-to-my-job" rel="alternate" type="text/html" title="Applying what I learned to my job" /><published>2014-05-13T23:00:00-04:00</published><updated>2014-05-13T23:00:00-04:00</updated><id>http://localhost:4000/applying-what-i-learned-to-my-job</id><content type="html" xml:base="http://localhost:4000/applying-what-i-learned-to-my-job">&lt;p&gt;I am writing this post because I want to document what I consider one of my biggest victories in this learning journey of mine. Additionally, I want to share how learning something new can impact your job even if they are seemingly unrelated. In this post I will briefly explain how I built a custom &lt;a href=&quot;http://en.wikipedia.org/wiki/Object-relational_mapping&quot;&gt;ORM&lt;/a&gt; solution for &lt;a href=&quot;http://www.teradata.com/?LangType=1033&quot;&gt;Teradata&lt;/a&gt; in VB.Net.&lt;/p&gt;
+&lt;p&gt;So that is it. It was a pretty nice exercise. I am proud of this little app. It helped me a lot but I am already working on a different project. I am planning to spend more time polishing my next app so that I can actually release it to the world.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Rafael Huaman</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Programming" />
+      
+
+      
+        <summary type="html">After a few months of work, I have finally completed my first practice app. I built it little by little in the mornings before work and on the weekends as well.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Applying what I learned to my job</title>
+      <link href="http://localhost:4000/applying-what-i-learned-to-my-job" rel="alternate" type="text/html" title="Applying what I learned to my job" />
+      <published>2014-05-13T23:00:00-04:00</published>
+      <updated>2014-05-13T23:00:00-04:00</updated>
+      <id>http://localhost:4000/applying-what-i-learned-to-my-job</id>
+      <content type="html" xml:base="http://localhost:4000/applying-what-i-learned-to-my-job">&lt;p&gt;I am writing this post because I want to document what I consider one of my biggest victories in this learning journey of mine. Additionally, I want to share how learning something new can impact your job even if they are seemingly unrelated. In this post I will briefly explain how I built a custom &lt;a href=&quot;http://en.wikipedia.org/wiki/Object-relational_mapping&quot;&gt;ORM&lt;/a&gt; solution for &lt;a href=&quot;http://www.teradata.com/?LangType=1033&quot;&gt;Teradata&lt;/a&gt; in VB.Net.&lt;/p&gt;
 
 &lt;h3 id=&quot;legacy-and-when-non-coders-code&quot;&gt;Legacy and when non-coders code&lt;/h3&gt;
 
@@ -85,7 +204,41 @@
 
 &lt;p&gt;So that’s the quick explanation. It took a few days to put all of this together. As an added bonus I built this using TDD so all the functionality of my Active Record class was tested and gave me a lot of confidence in the solution I was implemented.&lt;/p&gt;
 
-&lt;p&gt;I was very proud of this. Building my own ORM solution made me feel more like a real hacker, gave me a lot of confidence in my own abilities, and validated the time and effort I spend learning and practicing outside of work.&lt;/p&gt;</content><author><name>Rafael Huaman</name></author><category term="Programming" /><summary type="html">I am writing this post because I want to document what I consider one of my biggest victories in this learning journey of mine. Additionally, I want to share how learning something new can impact your job even if they are seemingly unrelated. In this post I will briefly explain how I built a custom ORM solution for Teradata in VB.Net.</summary></entry><entry><title type="html">Working through two Rails tutorials</title><link href="http://localhost:4000/working-through-two-rails-tutorials" rel="alternate" type="text/html" title="Working through two Rails tutorials" /><published>2014-03-01T22:16:00-05:00</published><updated>2014-03-01T22:16:00-05:00</updated><id>http://localhost:4000/working-through-two-rails-tutorials</id><content type="html" xml:base="http://localhost:4000/working-through-two-rails-tutorials">&lt;h3 id=&quot;after-the-first-one&quot;&gt;After the first one&lt;/h3&gt;
+&lt;p&gt;I was very proud of this. Building my own ORM solution made me feel more like a real hacker, gave me a lot of confidence in my own abilities, and validated the time and effort I spend learning and practicing outside of work.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Rafael Huaman</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Programming" />
+      
+
+      
+        <summary type="html">I am writing this post because I want to document what I consider one of my biggest victories in this learning journey of mine. Additionally, I want to share how learning something new can impact your job even if they are seemingly unrelated. In this post I will briefly explain how I built a custom ORM solution for Teradata in VB.Net.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Working through two Rails tutorials</title>
+      <link href="http://localhost:4000/working-through-two-rails-tutorials" rel="alternate" type="text/html" title="Working through two Rails tutorials" />
+      <published>2014-03-01T22:16:00-05:00</published>
+      <updated>2014-03-01T22:16:00-05:00</updated>
+      <id>http://localhost:4000/working-through-two-rails-tutorials</id>
+      <content type="html" xml:base="http://localhost:4000/working-through-two-rails-tutorials">&lt;h3 id=&quot;after-the-first-one&quot;&gt;After the first one&lt;/h3&gt;
 
 &lt;p&gt;A few months ago I completed the Hartl’s rails tutorial. I bragged a little about it on this post right &lt;a href=&quot;blog/2013/12/24/hartls-rails-tutorial-im-done/&quot;&gt;here&lt;/a&gt;.  I felt really good about it; however, I noticed that once I was done with the book I could hardly remember many of the details I had learned at the beginning. I realized that I had a better intuition about how it all went together and was very familiar with the Rails environment but I still had look up a lot of things and go back in the book to remember how to do specific things. All things considered, I couldn’t expect more; I was starting out and that had been my first venture with Rails. I considered it successful.&lt;/p&gt;
 
@@ -125,7 +278,41 @@
 
 &lt;p&gt;After doing this myself, my advice to all Rails beginners out there would be to take the time to work through two different Rails tutorials. This exercise showed me that there are different ways of working with Rails and several ways to reach the same goal. This is extremely valuable for someone (me) who is starting out and may mistakenly believe that the Hartl way is the only correct way of writing Rails application.&lt;/p&gt;
 
-&lt;p&gt;I met someone at a meetup who recommended working through the Rails tutorial twice. I believe this would is helpful too since many of the chapters that were nebulous when first starting will be suddenly clear and make more sense on the second go. Nevertheless, I feel that working through the same book twice without exposure to other methods may delay the realization that there multiple ways of working with Rails.&lt;/p&gt;</content><author><name>Rafael Huaman</name></author><category term="Programming" /><summary type="html">After the first one</summary></entry><entry><title type="html">Lessons in Ruby from Exercism.io</title><link href="http://localhost:4000/lessons-in-ruby-from-exercism-dot-io" rel="alternate" type="text/html" title="Lessons in Ruby from Exercism.io" /><published>2014-02-05T23:44:00-05:00</published><updated>2014-02-05T23:44:00-05:00</updated><id>http://localhost:4000/lessons-in-ruby-from-exercism-dot-io</id><content type="html" xml:base="http://localhost:4000/lessons-in-ruby-from-exercism-dot-io">&lt;p&gt;##Exercism.io and Patience
+&lt;p&gt;I met someone at a meetup who recommended working through the Rails tutorial twice. I believe this would is helpful too since many of the chapters that were nebulous when first starting will be suddenly clear and make more sense on the second go. Nevertheless, I feel that working through the same book twice without exposure to other methods may delay the realization that there multiple ways of working with Rails.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Rafael Huaman</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Programming" />
+      
+
+      
+        <summary type="html">After the first one</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Lessons in Ruby from Exercism.io</title>
+      <link href="http://localhost:4000/lessons-in-ruby-from-exercism-dot-io" rel="alternate" type="text/html" title="Lessons in Ruby from Exercism.io" />
+      <published>2014-02-05T23:44:00-05:00</published>
+      <updated>2014-02-05T23:44:00-05:00</updated>
+      <id>http://localhost:4000/lessons-in-ruby-from-exercism-dot-io</id>
+      <content type="html" xml:base="http://localhost:4000/lessons-in-ruby-from-exercism-dot-io">&lt;p&gt;##Exercism.io and Patience
 When I started my path of personal development I gathered a lot of information on online resources to improve my skills as a programmer. That’s when I first learned about &lt;a href=&quot;http://exercism.io/&quot;&gt;Exercism.io.&lt;/a&gt; It seemed like a popular and useful resource which would introduce feedback to my learning. I bookmarked and archived it; however, I didn’t use it right away. I got more involved with the &lt;a href=&quot;http://ruby.railstutorial.org/&quot;&gt;Hartl Tutorial&lt;/a&gt;, the &lt;a href=&quot;http://pragprog.com/book/rails4/agile-web-development-with-rails-4&quot;&gt;Agile Web Development with Rails 4&lt;/a&gt; book, and a few more &lt;a href=&quot;http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452&quot;&gt;books&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;My interested got picked again at the &lt;a href=&quot;http://nickelcityruby.com/&quot;&gt;Nickel City Ruby&lt;/a&gt; conference where I heard a few people raving about how great Exercism.io was. At first nothing interesting happened, I finished the first exercise and was ready to move on. After a couple of days of not getting any feedback simply advanced to the next exercise. This is how my first two exercises went: “finish, wait, no response? Move on”. At this point I was wondering what made Exercism.io so special (whatever it was I was not seeing it).&lt;/p&gt;
@@ -237,7 +424,41 @@ The second problem I had with my code was the sort method for the same exercise.
 
 &lt;p&gt;##Conclusion&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://exercism.io/&quot;&gt;Exercism.io&lt;/a&gt; is not meant for you to plough through all the exercises. It is meant for careful review, collaboration, and revision so that you can learn how to write the best code possible. The users in the site will be helpful but you just have to be a little patient and wait for their input.&lt;/p&gt;</content><author><name>Rafael Huaman</name></author><category term="Programming" /><summary type="html">##Exercism.io and Patience When I started my path of personal development I gathered a lot of information on online resources to improve my skills as a programmer. That’s when I first learned about Exercism.io. It seemed like a popular and useful resource which would introduce feedback to my learning. I bookmarked and archived it; however, I didn’t use it right away. I got more involved with the Hartl Tutorial, the Agile Web Development with Rails 4 book, and a few more books.</summary></entry><entry><title type="html">Hartl’s Rails Tutorial - I’m Done!</title><link href="http://localhost:4000/hartls-rails-tutorial-im-done" rel="alternate" type="text/html" title="Hartl's Rails Tutorial - I'm Done!" /><published>2013-12-24T06:02:00-05:00</published><updated>2013-12-24T06:02:00-05:00</updated><id>http://localhost:4000/hartls-rails-tutorial-im-done</id><content type="html" xml:base="http://localhost:4000/hartls-rails-tutorial-im-done">&lt;p&gt;So after a few months of coding on the weekend and late at night, I am finally done with the Hartl Rails tutorial. It was a great experience and I feel great about doing pretty much everything on the book. There was a lot to cover and I am not going to review it (there are plenty of reviews out there), but I am going to write about my biggest takeaways.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://exercism.io/&quot;&gt;Exercism.io&lt;/a&gt; is not meant for you to plough through all the exercises. It is meant for careful review, collaboration, and revision so that you can learn how to write the best code possible. The users in the site will be helpful but you just have to be a little patient and wait for their input.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Rafael Huaman</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Programming" />
+      
+
+      
+        <summary type="html">##Exercism.io and Patience When I started my path of personal development I gathered a lot of information on online resources to improve my skills as a programmer. That’s when I first learned about Exercism.io. It seemed like a popular and useful resource which would introduce feedback to my learning. I bookmarked and archived it; however, I didn’t use it right away. I got more involved with the Hartl Tutorial, the Agile Web Development with Rails 4 book, and a few more books.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Hartl’s Rails Tutorial - I’m Done!</title>
+      <link href="http://localhost:4000/hartls-rails-tutorial-im-done" rel="alternate" type="text/html" title="Hartl's Rails Tutorial - I'm Done!" />
+      <published>2013-12-24T06:02:00-05:00</published>
+      <updated>2013-12-24T06:02:00-05:00</updated>
+      <id>http://localhost:4000/hartls-rails-tutorial-im-done</id>
+      <content type="html" xml:base="http://localhost:4000/hartls-rails-tutorial-im-done">&lt;p&gt;So after a few months of coding on the weekend and late at night, I am finally done with the Hartl Rails tutorial. It was a great experience and I feel great about doing pretty much everything on the book. There was a lot to cover and I am not going to review it (there are plenty of reviews out there), but I am going to write about my biggest takeaways.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-ruby-koans&quot;&gt;The Ruby Koans&lt;/h2&gt;
 &lt;p&gt;This little jewel was hidden in the exercise section of chapter 4. This resource was excellent and should have been more prominent. Someone who skipped the ruby section exercises could miss this great resource.&lt;/p&gt;
@@ -254,7 +475,41 @@ The second problem I had with my code was the sort method for the same exercise.
 &lt;h2 id=&quot;tdd-for-the-win&quot;&gt;TDD for the win!&lt;/h2&gt;
 &lt;p&gt;I love that this tutorial emphasizes TDD. I love testing and this book rarely writes a feature without a test. I am currently working through the &lt;a href=&quot;http://pragprog.com/book/rails4/agile-web-development-with-rails-4&quot;&gt;Agile Development with Rails 4&lt;/a&gt; book and I do not like how little testing there is in that book. Hartl really knocks it out of the park here.&lt;/p&gt;
 
-&lt;p&gt;Those are my thoughts for now. I may update this entry later. However, I don’t want to spend too much time on this. I have moved on to a different book: &lt;a href=&quot;http://pragprog.com/book/rails4/agile-web-development-with-rails-4&quot;&gt;Agile Development with Rails 4&lt;/a&gt;. This is helping me internalize many of the concepts and see different ways to work with Rails. I feel that once I am done with this book I will have the Rails expertise to start playing with a few personal projects I have in mind. These are exciting times.&lt;/p&gt;</content><author><name>Rafael Huaman</name></author><category term="Programming" /><summary type="html">So after a few months of coding on the weekend and late at night, I am finally done with the Hartl Rails tutorial. It was a great experience and I feel great about doing pretty much everything on the book. There was a lot to cover and I am not going to review it (there are plenty of reviews out there), but I am going to write about my biggest takeaways.</summary></entry><entry><title type="html">Nitrous.io and How I Stopped Carrying Two Laptops</title><link href="http://localhost:4000/nitrous-dot-io-and-how-i-stopped-carrying-two-laptops" rel="alternate" type="text/html" title="Nitrous.io and How I Stopped Carrying Two Laptops" /><published>2013-12-12T05:54:00-05:00</published><updated>2013-12-12T05:54:00-05:00</updated><id>http://localhost:4000/nitrous-dot-io-and-how-i-stopped-carrying-two-laptops</id><content type="html" xml:base="http://localhost:4000/nitrous-dot-io-and-how-i-stopped-carrying-two-laptops">&lt;p&gt;This post is bittersweet.&lt;/p&gt;
+&lt;p&gt;Those are my thoughts for now. I may update this entry later. However, I don’t want to spend too much time on this. I have moved on to a different book: &lt;a href=&quot;http://pragprog.com/book/rails4/agile-web-development-with-rails-4&quot;&gt;Agile Development with Rails 4&lt;/a&gt;. This is helping me internalize many of the concepts and see different ways to work with Rails. I feel that once I am done with this book I will have the Rails expertise to start playing with a few personal projects I have in mind. These are exciting times.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Rafael Huaman</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Programming" />
+      
+
+      
+        <summary type="html">So after a few months of coding on the weekend and late at night, I am finally done with the Hartl Rails tutorial. It was a great experience and I feel great about doing pretty much everything on the book. There was a lot to cover and I am not going to review it (there are plenty of reviews out there), but I am going to write about my biggest takeaways.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Nitrous.io and How I Stopped Carrying Two Laptops</title>
+      <link href="http://localhost:4000/nitrous-dot-io-and-how-i-stopped-carrying-two-laptops" rel="alternate" type="text/html" title="Nitrous.io and How I Stopped Carrying Two Laptops" />
+      <published>2013-12-12T05:54:00-05:00</published>
+      <updated>2013-12-12T05:54:00-05:00</updated>
+      <id>http://localhost:4000/nitrous-dot-io-and-how-i-stopped-carrying-two-laptops</id>
+      <content type="html" xml:base="http://localhost:4000/nitrous-dot-io-and-how-i-stopped-carrying-two-laptops">&lt;p&gt;This post is bittersweet.&lt;/p&gt;
 
 &lt;p&gt;Not too long ago I wrote about how &lt;a href=&quot;/blog/2013/10/06/my-ubuntu-laptop/&quot;&gt;I breathed new life to my old college laptop&lt;/a&gt; by turning it into my development/learning computer. When I was done, I was happy. I started using it all the time and even bringing with me when I traveled for work which meant carrying two laptops. I did not care though. My Ubuntu laptop was worth it!&lt;/p&gt;
 
@@ -266,7 +521,41 @@ The second problem I had with my code was the sort method for the same exercise.
 
 &lt;p&gt;Anyway… cloud based IDEs are the &lt;strong&gt;future&lt;/strong&gt;! In fact a quick google search just confirmed that you can use the &lt;a href=&quot;http://www.raspberrypi.org/phpBB3/viewtopic.php?t=9984&quot;&gt;Raspberry Pi&lt;/a&gt; and &lt;a href=&quot;https://c9.io/&quot;&gt;Cloud9&lt;/a&gt; - another popular web based IDE - to get a development environment for $35. This is extremely exciting.&lt;/p&gt;
 
-&lt;p&gt;That is all for now.&lt;/p&gt;</content><author><name>Rafael Huaman</name></author><category term="Programming" /><summary type="html">This post is bittersweet.</summary></entry><entry><title type="html">My First Code Retreat</title><link href="http://localhost:4000/my-first-code-retreat" rel="alternate" type="text/html" title="My First Code Retreat" /><published>2013-11-28T05:44:00-05:00</published><updated>2013-11-28T05:44:00-05:00</updated><id>http://localhost:4000/my-first-code-retreat</id><content type="html" xml:base="http://localhost:4000/my-first-code-retreat">&lt;p&gt;This is a post about my &lt;a href=&quot;http://coderetreat.org/&quot;&gt;code retreat&lt;/a&gt; experience a few months ago. For those who don’t know what a Code Retreat is please visit &lt;a href=&quot;http://coderetreat.org/&quot;&gt;coderetreat.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;That is all for now.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Rafael Huaman</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Programming" />
+      
+
+      
+        <summary type="html">This post is bittersweet.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">My First Code Retreat</title>
+      <link href="http://localhost:4000/my-first-code-retreat" rel="alternate" type="text/html" title="My First Code Retreat" />
+      <published>2013-11-28T05:44:00-05:00</published>
+      <updated>2013-11-28T05:44:00-05:00</updated>
+      <id>http://localhost:4000/my-first-code-retreat</id>
+      <content type="html" xml:base="http://localhost:4000/my-first-code-retreat">&lt;p&gt;This is a post about my &lt;a href=&quot;http://coderetreat.org/&quot;&gt;code retreat&lt;/a&gt; experience a few months ago. For those who don’t know what a Code Retreat is please visit &lt;a href=&quot;http://coderetreat.org/&quot;&gt;coderetreat.org&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This is not going be extensive. I don’t want to go into the details and the specific exercises because that would be like spoilers. I am just going to focus on the new things I learned/tried that day and my overall conclusion.&lt;/p&gt;
 
@@ -291,7 +580,41 @@ The second problem I had with my code was the sort method for the same exercise.
 &lt;p&gt;It was all fun. What can I say? I love coding and a full day of challenges with great people was excellent.&lt;/p&gt;
 
 &lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
-&lt;p&gt;I recommend it to everybody. Programmers need practice too and retreats are an excellent way to do it and discover many things in the process.&lt;/p&gt;</content><author><name>Rafael Huaman</name></author><category term="Programming" /><summary type="html">This is a post about my code retreat experience a few months ago. For those who don’t know what a Code Retreat is please visit coderetreat.org.</summary></entry><entry><title type="html">Updating My Learing Plan</title><link href="http://localhost:4000/updating-my-learing-plan" rel="alternate" type="text/html" title="Updating My Learing Plan" /><published>2013-10-13T15:05:00-04:00</published><updated>2013-10-13T15:05:00-04:00</updated><id>http://localhost:4000/updating-my-learing-plan</id><content type="html" xml:base="http://localhost:4000/updating-my-learing-plan">&lt;p&gt;When I started this learning process, I had a goal in mind and built a plan to help me achieve it. A plan can help you think methodically about how to achieve your goal and keep track of your progress. The learning plan I designed was based on what I knew at the time. Since then I have reached many milestones and have learned a lot from others. It is time now to revisit this plan and see if it is still relevant.&lt;/p&gt;
+&lt;p&gt;I recommend it to everybody. Programmers need practice too and retreats are an excellent way to do it and discover many things in the process.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Rafael Huaman</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Programming" />
+      
+
+      
+        <summary type="html">This is a post about my code retreat experience a few months ago. For those who don’t know what a Code Retreat is please visit coderetreat.org.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Updating My Learing Plan</title>
+      <link href="http://localhost:4000/updating-my-learing-plan" rel="alternate" type="text/html" title="Updating My Learing Plan" />
+      <published>2013-10-13T15:05:00-04:00</published>
+      <updated>2013-10-13T15:05:00-04:00</updated>
+      <id>http://localhost:4000/updating-my-learing-plan</id>
+      <content type="html" xml:base="http://localhost:4000/updating-my-learing-plan">&lt;p&gt;When I started this learning process, I had a goal in mind and built a plan to help me achieve it. A plan can help you think methodically about how to achieve your goal and keep track of your progress. The learning plan I designed was based on what I knew at the time. Since then I have reached many milestones and have learned a lot from others. It is time now to revisit this plan and see if it is still relevant.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-one-check-progress&quot;&gt;Step one: Check Progress&lt;/h2&gt;
 
@@ -404,7 +727,41 @@ The second problem I had with my code was the sort method for the same exercise.
 &lt;h3 id=&quot;learning-tip&quot;&gt;Learning tip&lt;/h3&gt;
 
 &lt;p&gt;In the past few months I found that the learning plan I created was very helpful. It will keep you on track and show your progress.
-As a beginner it is very possible that your first learning plan will not be the best. This is why it’s important to keep your plan flexible and continue to reevaluate it as you learn more about the topics you are exploring.&lt;/p&gt;</content><author><name>Rafael Huaman</name></author><category term="Programming" /><summary type="html">When I started this learning process, I had a goal in mind and built a plan to help me achieve it. A plan can help you think methodically about how to achieve your goal and keep track of your progress. The learning plan I designed was based on what I knew at the time. Since then I have reached many milestones and have learned a lot from others. It is time now to revisit this plan and see if it is still relevant.</summary></entry><entry><title type="html">My Ubuntu Laptop</title><link href="http://localhost:4000/my-ubuntu-laptop" rel="alternate" type="text/html" title="My Ubuntu Laptop" /><published>2013-10-06T00:39:00-04:00</published><updated>2013-10-06T00:39:00-04:00</updated><id>http://localhost:4000/my-ubuntu-laptop</id><content type="html" xml:base="http://localhost:4000/my-ubuntu-laptop">&lt;h2 id=&quot;windows-woes&quot;&gt;Windows Woes&lt;/h2&gt;
+As a beginner it is very possible that your first learning plan will not be the best. This is why it’s important to keep your plan flexible and continue to reevaluate it as you learn more about the topics you are exploring.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Rafael Huaman</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Programming" />
+      
+
+      
+        <summary type="html">When I started this learning process, I had a goal in mind and built a plan to help me achieve it. A plan can help you think methodically about how to achieve your goal and keep track of your progress. The learning plan I designed was based on what I knew at the time. Since then I have reached many milestones and have learned a lot from others. It is time now to revisit this plan and see if it is still relevant.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">My Ubuntu Laptop</title>
+      <link href="http://localhost:4000/my-ubuntu-laptop" rel="alternate" type="text/html" title="My Ubuntu Laptop" />
+      <published>2013-10-06T00:39:00-04:00</published>
+      <updated>2013-10-06T00:39:00-04:00</updated>
+      <id>http://localhost:4000/my-ubuntu-laptop</id>
+      <content type="html" xml:base="http://localhost:4000/my-ubuntu-laptop">&lt;h2 id=&quot;windows-woes&quot;&gt;Windows Woes&lt;/h2&gt;
 &lt;p&gt;When I started playing with Ruby, I didn’t even have it on my laptop. With resources like &lt;a href=&quot;http://tryruby.org/&quot;&gt;tryruby.org&lt;/a&gt; and &lt;a href=&quot;http://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt; freely available online I did not need install it until I started building small programs. After I finished the tutorials I installed Ruby on my windows machine and since I wasn’t building any complicated projects, everything was fine.&lt;/p&gt;
 
 &lt;p&gt;Eventually I started blogging using &lt;a href=&quot;http://octopress.org/&quot;&gt;Octopress&lt;/a&gt;. That’s when I encountered my first issue. I had installed version 2.0 and Octopress requires Ruby 1.9.3. The Internet came to my rescue with &lt;a href=&quot;https://github.com/vertiginous/pik&quot;&gt;Project Pik&lt;/a&gt;. Pik is like &lt;a href=&quot;https://rvm.io/&quot;&gt;RVM&lt;/a&gt; for Windows and it allows you switch between different versions of Ruby. At first this worked well. I was able to use Octopress and deploy the first version of my blog with it. However, I ran into problems when I started &lt;a href=&quot;http://ruby.railstutorial.org/&quot;&gt;Michael Hartl’s Rails Tutorials&lt;/a&gt;. I was able to go through the initial sections but I got stuck on the advanced configuration chapters. I kept running into issues and nothing seemed to be working. Worst of all, some things would work in one version of ruby and not on the other one. I did extensive research online but nothing seemed to solve my problems completely. As soon as I finished something, a new error would show up. I was getting increasingly frustrated. Eventually I decided to skip the sections that were giving me trouble.&lt;/p&gt;
@@ -422,4 +779,32 @@ As a beginner it is very possible that your first learning plan will not be the 
 &lt;p&gt;Needless to say, I was very happy and thrilled. I was able to go back and redo all the initial chapters of Michael Hartl’s tutorial and complete all the advanced configuration sections.&lt;/p&gt;
 
 &lt;h2 id=&quot;my-conclusion&quot;&gt;My conclusion&lt;/h2&gt;
-&lt;p&gt;Developing with Ruby on Windows is not a good idea. Use it if it’s your only option; however, trying Linux will definitely save a lot of time spent on troubleshooting.&lt;/p&gt;</content><author><name>Rafael Huaman</name></author><category term="Programming" /><summary type="html">Windows Woes When I started playing with Ruby, I didn’t even have it on my laptop. With resources like tryruby.org and Codecademy freely available online I did not need install it until I started building small programs. After I finished the tutorials I installed Ruby on my windows machine and since I wasn’t building any complicated projects, everything was fine.</summary></entry></feed>
+&lt;p&gt;Developing with Ruby on Windows is not a good idea. Use it if it’s your only option; however, trying Linux will definitely save a lot of time spent on troubleshooting.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Rafael Huaman</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Programming" />
+      
+
+      
+        <summary type="html">Windows Woes When I started playing with Ruby, I didn’t even have it on my laptop. With resources like tryruby.org and Codecademy freely available online I did not need install it until I started building small programs. After I finished the tutorials I installed Ruby on my windows machine and since I wasn’t building any complicated projects, everything was fine.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
